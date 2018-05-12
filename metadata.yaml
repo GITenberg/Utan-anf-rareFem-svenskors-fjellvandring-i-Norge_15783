@@ -1,0 +1,31 @@
+_repo: Utan-anf-rareFem-svenskors-fjellvandring-i-Norge_15783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wigström, Eva
+    aliases:
+    - Wigstrom, Eva
+    - Ave
+    - Wigström, E. (Eva)
+    birthdate: 1832
+    deathdate: 1901
+    gutenberg_agent_id: '6296'
+    url: http://www.gutenberg.org/2009/agents/6296
+    wikipedia: http://sv.wikipedia.org/wiki/Eva_Wigstr%C3%B6m
+description: ''
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15783'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Description and travel'
+- !lcc 'DL'
+title: 'Utan anförare: Fem svenskors fjellvandring i Norge'
+url: http://www.gutenberg.org/ebooks/15783
